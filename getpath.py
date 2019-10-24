@@ -1,3 +1,5 @@
+# This code is used to extract folder and file path.
+
 import os
 
 # get the current root path
