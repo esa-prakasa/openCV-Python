@@ -1,4 +1,4 @@
-# This code is used to extract folder and file path.
+# This code is used to extract folder and file path. The path will be assigned as String variable.
 
 import os
 
