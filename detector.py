@@ -1,3 +1,6 @@
+# This code is used to mask the frame acquired from laptop webcam
+# The code is written based on tutorial given by https://www.youtube.com/watch?v=yvfI4p6Wyvk
+
 import matplotlib.pylab as plt
 import cv2
 import numpy as np
