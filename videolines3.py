@@ -2,6 +2,7 @@ import numpy as np
 import cv2
 import os
 
+#this code is run on Windows 10 operating system
 
 cap = cv2.VideoCapture('C:\\Users\\Esa\\Documents\\a1OpenCVcodes\\data\\lipi.mp4')
 totalFrames = cap.get(cv2.CAP_PROP_FRAME_COUNT)
