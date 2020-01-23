@@ -1,3 +1,6 @@
+# The code is written by refering this website
+# Muhammad Aqib, https://maker.pro/raspberry-pi/tutorial/how-to-read-display-and-save-images-with-opencv-on-raspberry-pi
+
 #from picamera.array import PiRGBArray
 #from picamera import PiCamera
 import cv2
