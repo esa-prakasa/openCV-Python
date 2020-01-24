@@ -10,7 +10,7 @@ import numpy as np
 
 #img = cv2.imread("C:\\Users\\Esa\\Documents\\a1OpenCVcodes\\data\\fam.jpg",1)
 #img = cv2.imread("C:\\Users\\Esa\\Documents\\a1OpenCVcodes\\data\\comvis2.jpg",1)
-img = cv2.imread("C:\\Users\\Esa\\Documents\\a1OpenCVcodes\\data\\fam2.jpg",1)
+img = cv2.imread("C:\\Users\\Esa\\Documents\\a1OpenCVcodes\\data\\fam2.jpg",1)  # this file contains several faces
 
 
 def getSmallerSize(img):
