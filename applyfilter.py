@@ -11,7 +11,8 @@ fSz = 21
 # creating the filter
 filt = np.ones((fSz,fSz),np.float32)/(fSz*fSz)
 dst = cv2.filter2D(img,-1, filt)
- 
+
+# create several plot to show the images
 plt.subplot(121),plt.imshow(img),plt.title('Original')
 plt.xticks([]), plt.yticks([])
 plt.subplot(122),plt.imshow(dst),plt.title('Averaging')
