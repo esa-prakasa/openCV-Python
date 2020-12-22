@@ -1,5 +1,4 @@
 # this code is used to filter an image. The filtered image is shown used matplotlib.
-
 from matplotlib import pyplot as plt
 import numpy as np
 import cv2
